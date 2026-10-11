@@ -1,6 +1,12 @@
 # 🎓 Classroom Attendance Prediction
  
 ### Using Academic Schedule and Historical Attendance Data
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange)
+![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![R²](https://img.shields.io/badge/R%C2%B2-0.971-brightgreen)
+![Accuracy](https://img.shields.io/badge/Accuracy-94.2%25-brightgreen)
  
 
 <img width="1880" height="1031" alt="image" src="https://github.com/user-attachments/assets/8933bd9a-1b1f-4842-817e-c5dd7050f578" />
