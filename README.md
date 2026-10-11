@@ -264,8 +264,8 @@ jupyter notebook notebook.ipynb
  
 **Your Name**
 MCA Semester 3 — DSML Capstone
- 
-- GitHub: [username](https://github.com/omkar-shinde7031)
+
+- Portfolio: [link](portfolio-s2u1.vercel.app)
 - LinkedIn: [link](https://www.linkedin.com/in/omkar-shinde-897750326/?isSelfProfile=true)
 ---
  
