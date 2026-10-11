@@ -268,7 +268,7 @@ jupyter notebook notebook.ipynb
  
 ## 👤 Author
  
-**Your Name**
+**Omkar shinde**
 MCA Semester 3 — DSML Capstone
 
 - Portfolio: [link](portfolio-s2u1.vercel.app)
